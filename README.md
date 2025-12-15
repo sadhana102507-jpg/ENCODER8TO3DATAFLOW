@@ -1,4 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/887cec4e-f851-4161-af92-8151e5dfe4dc" />### ENCODER 8TO3 DATAFLOW Modelling
 
 **AIM:**
 
